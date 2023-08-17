@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "peer": "^0.6.1",
+    "socket.io": "^4.7.2"
+  }
+}
